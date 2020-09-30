@@ -1,4 +1,4 @@
-# Fronstack #1 - Building a Responsive Website
+# Frontstack #1 - Building a Responsive Website
 
 This is the repository for the Frontstack meetup on Responsive Web Design.
 
